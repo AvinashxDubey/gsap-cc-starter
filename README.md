@@ -1,0 +1,1 @@
+resource: https://github.com/JavaScript-Mastery-Pro/gsap-cc-starter
